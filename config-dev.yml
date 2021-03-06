@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: config-dev333
+config:
+  info: config-dev333
