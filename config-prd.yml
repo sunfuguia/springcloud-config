@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: config-prd
+config:
+  info: config-prd
