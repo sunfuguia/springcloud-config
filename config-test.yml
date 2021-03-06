@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: config-test
+config:
+  info: config-test
